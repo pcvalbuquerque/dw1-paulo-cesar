@@ -1,0 +1,26 @@
+{
+  "name": "dw1-paulocesar",
+  "version": "1.0.0",
+  "description": "uma api em node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snk1br/dw1-paulo-cesar.git"
+  },
+  "keywords": [
+    "api",
+    "node"
+  ],
+  "author": "paulo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/snk1br/dw1-paulo-cesar/issues"
+  },
+  "homepage": "https://github.com/snk1br/dw1-paulo-cesar#readme",
+  "dependencies": {
+    "restify": "^7.2.1"
+  }
+}
